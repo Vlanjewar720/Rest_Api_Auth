@@ -1,0 +1,21 @@
+
+.App {
+ 
+  background-color: #eceff3;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 30px;
+  justify-content: space-around;
+ 
+}
+
+h2{
+  display: flex;
+  flex-direction: row;
+   align-items: center;
+   justify-content: center;
+}
+@import '~bootstrap/scss/bootstrap';
